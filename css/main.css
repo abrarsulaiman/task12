@@ -1,0 +1,12 @@
+@import './bace.css';
+
+.category ,
+.products{
+    width: 35%;
+    background-color: rgb(105, 126, 219);
+    padding: 15px;
+    margin:10px;
+    gap: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 2.5);
+    text-align: center;
+}
